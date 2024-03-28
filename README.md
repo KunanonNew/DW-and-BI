@@ -1,5 +1,4 @@
 # Data Warehouse and Business Intelligence
 
-## Heading2
-
-### Heading3
+## Goal
+Learn to improve and grow every single day. Not for anyone else, but for yourself !!
